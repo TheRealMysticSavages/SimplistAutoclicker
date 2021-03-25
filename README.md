@@ -1,2 +1,1 @@
-# SimplistAutoclicker
-An autoclicker with nothing but a start and stop button.
+![](https://i.imgur.com/lWdA3OU.gif)
